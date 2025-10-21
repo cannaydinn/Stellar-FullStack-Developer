@@ -1,0 +1,1 @@
+/Users/can/Desktop/yedekleme/deneme_kabini/fitting-room/fitting-room-contract/target/wasm32v1-none/release/fitting_room_contract.wasm: /Users/can/Desktop/yedekleme/deneme_kabini/fitting-room/fitting-room-contract/src/lib.rs
